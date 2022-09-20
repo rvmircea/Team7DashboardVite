@@ -1,0 +1,55 @@
+.student-details button {
+  
+  font: inherit;
+  border: 3px white;
+  background: #0076ce;
+  color: white;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-bottom: 10px;
+  margin-left: 305px;
+  
+}
+
+.student-details button:hover,
+.student-details button:active {
+  background: #00447c;
+  border-color: #00447c;
+}
+
+.details {
+  border-color: blue;
+  border-radius: "8px";
+}
+
+.details table p {
+  font: inherit;
+  color: black;
+  font-size: 1rem;
+}
+
+.details span {
+  margin-left: auto;
+  margin-right: 6px;
+  color: #00447c;
+}
+
+.details table{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 100%;
+  height: 20px;
+}
+
+.details th, td{
+  height: 10px;
+  padding: 1px; 
+  border-bottom: 1px solid #ddd;
+  
+}
+
+span {
+  float: right;
+  
+}

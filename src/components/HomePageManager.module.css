@@ -1,0 +1,15 @@
+.view {
+  width: 70%;
+  height: 70%;
+  position: relative;
+  margin: auto;
+  z-index: 10;
+}
+
+p {
+  font-weight: bold;
+  font-size: 24px;
+  color: #3287c1;
+  margin-bottom: 48px;
+  margin-top: 32px;
+}
